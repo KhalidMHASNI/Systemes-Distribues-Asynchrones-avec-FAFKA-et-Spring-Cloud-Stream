@@ -31,9 +31,9 @@
 ![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/bf03b1ee-2af6-434e-9634-35ed0e10cad8)
 
 
-3. 
-En Utilisant KAFKA et Stpring Cloud Streams, Créer :
+3. En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 - Un Service Producer KAFKA via un Rest Controler
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/c1fc6541-133d-4f5e-b4cc-7d18d796d8de)
 - Un Service Consumer KAFKA
 - Un Service Supplier KAFKA
 - Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams
