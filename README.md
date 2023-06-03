@@ -22,10 +22,14 @@
 ![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/a22a9b95-cb8c-49dc-8a03-5593806092b0)
 
  - Démarrer les conteneurs docker : zookeeper et kafka-broker
- ![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/e59a92a9-0eec-482f-b1af-d68fe7aa04e5)
 
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/e8b97189-4f5c-4afe-85e8-9bb018b8d6f0)
  
  - Tester avec Kafka-console-producer et kafka-console-consumer
+ 
+ ![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/a598ce60-5820-4c51-a56a-2894ab360be3)
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/bf03b1ee-2af6-434e-9634-35ed0e10cad8)
+
 
 3. 
 En Utilisant KAFKA et Stpring Cloud Streams, Créer :
