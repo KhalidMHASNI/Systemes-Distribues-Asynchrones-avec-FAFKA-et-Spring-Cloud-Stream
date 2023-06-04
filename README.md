@@ -32,9 +32,26 @@
 
 
 3. En Utilisant KAFKA et Stpring Cloud Streams, Créer :
-- Un Service Producer KAFKA via un Rest Controler
+
 ![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/c1fc6541-133d-4f5e-b4cc-7d18d796d8de)
+
+- Un Service Producer KAFKA via un Rest Controler
+
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/f1c67a3f-6e24-4b46-9fb4-1665cc94d074)
+
 - Un Service Consumer KAFKA
+
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/5d17d190-0a95-4d47-80ef-277a46dd04e4)
+
 - Un Service Supplier KAFKA
+
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/823a1cd3-fda7-47bd-940e-121c3624814a)
+
 - Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams
+
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/32d77773-d918-4978-9bc5-d6f467289569)
+
 - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
+
+![image](https://github.com/KhalidMHASNI/Systemes-Distribues-Asynchrones-avec-KAFKA-et-Spring-Cloud-Stream/assets/82038554/9b545f79-a531-423e-97be-4fdac11d86af)
+
